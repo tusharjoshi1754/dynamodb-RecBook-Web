@@ -1,0 +1,10 @@
+{
+    "secret": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "front_end_url":"recbook://staging.recbook.in/",
+    "accessKeyId":"AKIASNCAKZGQFUCPU5ID",
+    "secretAccessKey":"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",
+    "region":"us-east-1",
+    "countrycode":"1"
+}
+
+
